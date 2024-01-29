@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+
+<channel>
+    <tittle>Diario Marca</tittle>
+    <link>https://www.marca.com/</link>
+    <description>Diario español de deporte.</description>
+    <languaje>es</languaje>
+
+    <item>
+        <title> El Madrid saca petróleo de la esquina: 9 de sus últimos 12 puntos </title>
+        <description>De los últimos 12 puntos que ha sumado el Real Madrid en LaLiga,
+         nueve han llegado a la salida de un saque de esquina. 
+         "Es mi equipo de trabajo el que prepara las jugadas a balón parado", 
+         explicaba Ancelotti después de que Rüdiger marcara de cabeza en un corner para 
+         derrotar al Mallorca el 3 de enero.</description>
+        <link>https://www.marca.com/futbol/real-madrid/2024/01/29/65b53c9b22601df7278b4586.html</link>
+        <category>Futbol<category>
+        <pubDate> 29 Jan 2023</pubDate>
+    <item>
+
+    <item>
+        <title>¡Alonso detecta un problema en el nuevo coche que Aston Martin debe solucionar</title>
+        <description>Cuando habla de la dirección del nuevo monoplaza indica: 
+        "El lugar donde se nota más es en la sexta curva, 
+        cuando subes de marcha y giras a la derecha para tomar la séptima curva.
+         La dirección es bastante pesada y cuesta un poco".</description>
+        <link>https://www.marca.com/motor/formula1/2024/01/29/65b7af14268e3e1d488b45b2.html</link>
+        <category>Motor<category>
+        <pubDate>29 Jan 2023</pubDate>
+    <item>
+
+
+
+</channel>
