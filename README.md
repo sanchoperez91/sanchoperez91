@@ -54,6 +54,9 @@ Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de
 ### Beach Box 🌊🏖️
 Un innovador negocio en desarrollo que ofrece el alquiler de cajones-locker en la playa para guardar tus utensilios de playa. Además, permite alquilar esos utensilios y evitar llevarlos de regreso al hotel, pudiendo dejarlos en el locker hasta el día siguiente.
 
+### MVC concesionario
+Creación de un proyecto en PHP, JavaScript, Html, Css y SQL sobre consulta a insercion de distintos coches. Desarrollado mediante el modelo MVC.
+
 ### Clasificador de imágenes 🐶🐱
 Un modelo de IA que diferencia entre distintas imagenes de perros y gatos utilizando un dataset etiquetado de Kaggle.
 
@@ -64,7 +67,8 @@ Un modelo de IA que diferencia entre distintas posturas de Yoga utilizando un da
 Un programa en Java para jugar a las tres en raya, totalmente funcional
  
 ### Gestor de recetas 🍽️
-Desarrollo de un proyecto en Java que permite gestionar recetas culinarias, utilizando el modelo Vista-Controlador (MVC).
+Desarrollo de un proyecto en Java que permite gestionar recetas culinarias a tu elección, segun distintos filtros.
+
 
 ## Contacto
 
