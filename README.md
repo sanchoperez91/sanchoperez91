@@ -55,7 +55,7 @@ Un modelo de IA que diferencia entre distintas imagenes de perros y gatos utiliz
 ### Clasificador de poses
 Un modelo de IA que diferencia entre distintas posturas de Yoga utilizando un dataset etiquetado de mi galeria personal.
 
-###Tres en Raya Tik tak toe
+### Tres en Raya Tik tak toe
 Un programa en Java para jugar a las tres en raya, totalmente funcional
  
 ### Gestor de recetas 🍽️
