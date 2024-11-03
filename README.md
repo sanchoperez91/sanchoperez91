@@ -37,6 +37,11 @@ Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de
   - Xampp
   - SublimeText
 
+- **Inteligencia Artifcial y Machine Learning:**
+  - TeachableMachine
+  - ChatGPT
+  - Copilot
+
 - **Base de datos:** 
   - MySQL
   - SQL Server Management
