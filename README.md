@@ -75,5 +75,6 @@ Desarrollo de un proyecto en Java que permite gestionar recetas culinarias a tu 
 - 📧 **Correo:** sancho.perez91@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/javiersanchoperez
 - 🌐 **GitHub:** https://github.com/sanchoperez91
+- CV protfolio WEB https://www.notion.so/CV-Javier-Sancho-Perez-138bd2789ab4802fbd97deb1d6b2a797
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar en un proyecto o simplemente charlar sobre tecnología, no dudes en contactarme. 🚀
