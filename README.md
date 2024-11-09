@@ -2,6 +2,7 @@
 
 Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta aprender y aplicar mis conocimientos en proyectos innovadores. Mi objetivo es encontrar oportunidades de programación en horario de tarde y continuar mi formación con certificaciones oficiales.
 
+www.linkedin.com/in/javiersanchoperez
 https://brassy-smash-0ea.notion.site/CV-Javier-Sancho-Perez-138bd2789ab4802fbd97deb1d6b2a797?pvs=4
 
 ## Sobre mí
