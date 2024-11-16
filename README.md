@@ -30,7 +30,7 @@ Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de
   - PHP
   - Python
 
-- **Frameworks y herramientas:**
+- **Herramientas:**
   - Android Studio
   - Git y GitHub
   - TensorFlow
