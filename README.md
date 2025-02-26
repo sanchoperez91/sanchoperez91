@@ -62,8 +62,8 @@ Un innovador negocio en desarrollo que ofrece el alquiler de cajones-locker en l
 ### Foro
 Foro web desarrollado con PHP, JavaScript, HTML, CSS y SQL, que permite a los usuarios registrarse, iniciar sesión, crear publicaciones y responder a otros posts. Ofrece una interfaz intuitiva y un sistema de permisos que garantiza que solo los autores puedan eliminar sus propias publicaciones.
 
-### MVC concesionario
-Creación de un proyecto en PHP, JavaScript, Html, Css y SQL sobre consulta a insercion de distintos coches. Desarrollado mediante el modelo MVC.
+### ERP Zapatos De Autor
+ERP desarrollado con PHP, JavaScript, HTML, CSS y SQL, que facilita la gestión de inventarios, ventas, compras y finanzas. Permite a los usuarios acceder a reportes en tiempo real y optimiza los procesos internos mediante una interfaz sencilla y centralizada.
 
 ### Clasificador de imágenes 🐶🐱
 Un modelo de IA que diferencia entre distintas imagenes de perros y gatos utilizando un dataset etiquetado de Kaggle.
@@ -74,9 +74,6 @@ Un modelo de IA que diferencia entre distintas posturas de Yoga utilizando un da
 ### Tres en Raya 
 Un programa en Java para jugar a las tres en raya, totalmente funcional
  
-### Gestor de recetas 🍽️
-Desarrollo de un proyecto en Java que permite gestionar recetas culinarias a tu elección, segun distintos filtros.
-
 
 ## Contacto
 
