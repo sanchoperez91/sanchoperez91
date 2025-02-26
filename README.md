@@ -1,8 +1,6 @@
 # ¡Hola, soy Javier Sancho! 👋
 
-Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta aprender y aplicar mis conocimientos en proyectos innovadores. Mi objetivo es encontrar oportunidades de programación en horario de tarde y continuar mi formación con certificaciones oficiales.
-
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/javiersanchoperez/)
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta aprender y aplicar mis conocimientos en proyectos innovadores.
 
 
 [Mi CV portfolio en Notion](https://brassy-smash-0ea.notion.site/CV-Javier-Sancho-Perez-138bd2789ab4802fbd97deb1d6b2a797?pvs=4)
@@ -11,8 +9,8 @@ Soy un apasionado del desarrollo de software y actualmente estoy cursando 2º de
 
 - 🌍 **Ubicación:** Madrid, España
 - 🎓 **Formación:** 
-  - Cursando 2º de FP en Desarrollo de Aplicaciones Multiplataforma
-  - FP de gestión administrativa
+  - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+  - Técnico en gestión administrativa
 - 💼 **Experiencia laboral:**
    - 9 años en gestión de equipos en una empresa de reparación para seguros del hogar y gestión de un taller de carpintería.
   - Repartidor
